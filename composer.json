@@ -1,5 +1,5 @@
 {
-    "name": "teqneers/ext-application",
+    "name": "brickfox/ext-application",
     "type": "library",
     "description": "A base component to integrate Sencha Ext JS into a PHP application",
     "homepage": "https://github.com/teqneers/ext-application",
@@ -22,7 +22,7 @@
         }
     },
     "require": {
-        "php": ">=5.5.0"
+        "php": ">=5.3.9"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.8,!=4.8.20|~5.1"
